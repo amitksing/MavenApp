@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.cg.project.test.MainTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.085 s <<< FAILURE! - in com.cg.project.test.MainTest
+com.cg.project.test.MainTest.test1  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError: Test 1 failed
+	at com.cg.project.test.MainTest.test1(MainTest.java:12)
+
+com.cg.project.test.MainTest.test3  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Test 3 failed
+	at com.cg.project.test.MainTest.test3(MainTest.java:25)
+
